@@ -3,8 +3,9 @@ Current Contributors
 
 This repository is currently being developed and maintained by:
 
-Muhammad Ahmad
-Rana Hamza
+1. Muhammad Ahmad
+
+2. Rana Hamza
 
 We are actively working on this project and contributing to its development.
 
